@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Antenne 1",
+    "url": "http://stream.antenne1.de/stream1/livestream.mp3",
+    "logo": "antenne1.png",
+    "woo": "freundeskreis.mp3",
+    "albumart": "freundeskreis.jpg"
+  },
+  {
+    "name": "SWR 3",
+    "url": "http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3",
+    "logo": "swr3.png",
+    "woo": "blumentopf.mp3",
+    "albumart": "blumentopf.jpg"
+  },
+  {
+    "name": "BigFM",
+    "url": "http://streams.bigfm.de/bigfm-deutschland-128-mp3",
+    "logo": "bigfm.png",
+    "woo": "fantavier.mp3",
+    "albumart": "fantavier.jpg"
+  },
+  {
+    "name": "Das Ding",
+    "url": "http://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3?ar-distributor=f0b2",
+    "logo": "dasding.png",
+    "woo": "torch.mp3",
+    "albumart": "torch.jpg"
+  },
+  {
+    "name": "Die neue 107.7",
+    "url": "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3?ar-purpose=web?ar-distributor=f0b2",
+    "logo": "107_7.png",
+    "woo": "gentleman.mp3",
+    "albumart": "gentleman.jpg"
+  },
+  {
+    "name": "AFN Stuttgart",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_STU_SC",
+    "logo": "afn_stuttgart.png",
+    "woo": "looptroop.mp3",
+    "albumart": "looptroop.jpg"
+  }
+]
